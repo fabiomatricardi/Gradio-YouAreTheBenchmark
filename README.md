@@ -251,7 +251,7 @@ MIT License
 
 > This UI is designed for researchers and developers evaluating LLM quality in controlled environments. The human feedback component provides systematic quality assessment for each task, with comprehensive logging and scoring capabilities.
 
-> created with <img src='https://github.com/anomalyco/opencode/raw/dev/packages/console/app/src/asset/logo-ornate-light.svg' height=20> and free Zen GLM-4.7 model 
+> created with <img src='https://github.com/anomalyco/opencode/raw/dev/packages/console/app/src/asset/logo-ornate-light.svg' height=20> and free Zen GLM-4.7 model. Entire coding session [documented here](https://github.com/fabiomatricardi/Gradio-YouAreTheBenchmark/raw/main/session-ses_4251.md) 
 
 ---
 
