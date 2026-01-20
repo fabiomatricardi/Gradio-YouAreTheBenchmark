@@ -28,7 +28,7 @@ The system uses OpenAI's Python client to communicate with llama-server.exe via 
 1. **Download llama-server.exe**
 
    - Get the latest release from https://github.com/ggerganov/llama.cpp
-   - Extract and place `llama-server.exe` in the `llamaCPP/` directory
+   - Extract and place `llama-server.exe` and all other files in the ZIP archive of the official Binaries in the `llamaCPP/` directory
 
 2. **Obtain GGUF Models**
 
@@ -250,6 +250,8 @@ MIT License
 - Base concepts from promptLibv2Qwen.py by Fabio Matricardi
 
 > This UI is designed for researchers and developers evaluating LLM quality in controlled environments. The human feedback component provides systematic quality assessment for each task, with comprehensive logging and scoring capabilities.
+
+> created with <img src='https://github.com/anomalyco/opencode/raw/dev/packages/console/app/src/asset/logo-ornate-light.svg' height=20> and free Zen GLM-4.7 model 
 
 ---
 
